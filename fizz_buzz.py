@@ -1,0 +1,7 @@
+a = int(input("Enter the number : "))
+if a % 3 == 0 :
+     print("Fizz")
+elif a % 5 == 0 :
+     print("Buzz")
+else :
+     print(a) 
